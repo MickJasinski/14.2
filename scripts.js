@@ -19,22 +19,22 @@ var movies = [{
   id: 1,
   title: 'Plump Fiction',
   desc: 'Comedy',
-  img: ['https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Plump_Fiction.jpg/215px-Plump_Fiction.jpg']
+  img: 'https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Plump_Fiction.jpg/215px-Plump_Fiction.jpg'
 }, {
   id: 2,
   title: 'Kill Bill',
   desc: 'Kinda different',
-  img: ['https://images-na.ssl-images-amazon.com/images/M/MV5BYTczMGFiOWItMjA3Mi00YTU5LWIwMDgtYTEzNjRkNDkwMTE2XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg']
+  img: 'https://images-na.ssl-images-amazon.com/images/M/MV5BYTczMGFiOWItMjA3Mi00YTU5LWIwMDgtYTEzNjRkNDkwMTE2XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_UX182_CR0,0,182,268_AL_.jpg'
 }, {
   id: 3,
   title: 'Natural Born Killers',
   desc: 'Mad cool',
-  img: ['https://upload.wikimedia.org/wikipedia/en/1/19/NBKillaz.jpg']
+  img: 'https://upload.wikimedia.org/wikipedia/en/1/19/NBKillaz.jpg'
 }, {
   id: 4,
   title: 'Hydrozagadka',
   desc: 'Another level',
-  img: ['https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Quotation_from_film_%27Hydrozagadka%27_advertising_XXXIV_Polish_Film_Festival_in_Gdynia_2009_-_1.jpg/800px-Quotation_from_film_%27Hydrozagadka%27_advertising_XXXIV_Polish_Film_Festival_in_Gdynia_2009_-_1.jpg']
+  img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Quotation_from_film_%27Hydrozagadka%27_advertising_XXXIV_Polish_Film_Festival_in_Gdynia_2009_-_1.jpg/800px-Quotation_from_film_%27Hydrozagadka%27_advertising_XXXIV_Polish_Film_Festival_in_Gdynia_2009_-_1.jpg'
 }];
 
 // Movie template
